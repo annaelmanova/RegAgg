@@ -1,2 +1,0 @@
-
-https://mybinder.org/v2/gh/annaelmanova/RegAgg/HEAD?urlpath=voila/render/DimerBuilder.ipynb
